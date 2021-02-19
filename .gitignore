@@ -1,1 +1,4 @@
 Design.txt
+venv/
+example/
+*.pyc
